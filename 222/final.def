@@ -1,0 +1,12 @@
+LIBRARY final
+
+CODE	  PRELOAD MOVEABLE DISCARDABLE
+DATA	  PRELOAD SINGLE
+
+HEAPSIZE  1024
+
+EXPORTS
+say
+shift
+nonshift
+delete_db

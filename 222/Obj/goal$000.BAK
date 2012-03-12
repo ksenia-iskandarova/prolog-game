@@ -1,0 +1,29 @@
+/*****************************************************************************
+
+		Copyright (c) My Company
+
+ Project:  FINAL
+ FileName: FINAL.PRO
+ Purpose: No description
+ Written by: Visual Prolog
+ Comments:
+******************************************************************************/
+
+include "final.inc"
+
+domains 
+halfcell = unsigned16
+cell = halfcell*
+cells = cell*
+
+predicates
+
+  final()
+
+clauses
+
+  final():-!.
+
+goal
+
+  final().

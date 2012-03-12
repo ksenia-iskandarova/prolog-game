@@ -1,0 +1,20 @@
+c:\users\1\documents\visual studio 2010\Projects\WFProlog\WFProlog\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2010\Projects\WFProlog\WFProlog\obj\x86\Debug\WFProlog.Properties.Resources.resources
+c:\users\1\documents\visual studio 2010\Projects\WFProlog\WFProlog\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\1\documents\visual studio 2010\Projects\WFProlog\WFProlog\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\1\documents\visual studio 2010\Projects\WFProlog\WFProlog\bin\Debug\WFProlog.exe
+c:\users\1\documents\visual studio 2010\Projects\WFProlog\WFProlog\bin\Debug\WFProlog.pdb
+c:\users\1\documents\visual studio 2010\Projects\WFProlog\WFProlog\obj\x86\Debug\WFProlog.exe
+c:\users\1\documents\visual studio 2010\Projects\WFProlog\WFProlog\obj\x86\Debug\WFProlog.pdb
+C:\Users\1\Documents\Visual Studio 2010\Projects\WFProlog\WFProlog\obj\x86\Debug\WFProlog.Form1.resources
+C:\Documents and Settings\admin\Рабочий стол\Desktop\WFProlog\WFProlog\obj\x86\Debug\WFProlog.exe
+C:\Documents and Settings\admin\Рабочий стол\Desktop\WFProlog\WFProlog\obj\x86\Debug\WFProlog.pdb
+C:\Documents and Settings\admin\Рабочий стол\Desktop\WFProlog\WFProlog\bin\Debug\WFProlog.exe
+C:\Documents and Settings\admin\Рабочий стол\Desktop\WFProlog\WFProlog\bin\Debug\WFProlog.pdb
+C:\Documents and Settings\admin\Рабочий стол\Desktop\WFProlog\WFProlog\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Рабочий стол\Desktop\WFProlog\WFProlog\obj\x86\Debug\WFProlog.Form1.resources
+C:\Documents and Settings\admin\Рабочий стол\Desktop\WFProlog\WFProlog\obj\x86\Debug\WFProlog.Properties.Resources.resources
+C:\Documents and Settings\admin\Рабочий стол\Desktop\WFProlog\WFProlog\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Рабочий стол\Desktop\WFProlog\WFProlog\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1\Desktop\Desktop2\WFProlog\WFProlog\obj\x86\Debug\WFProlog.exe
+C:\Users\1\Desktop\Desktop2\WFProlog\WFProlog\obj\x86\Debug\WFProlog.pdb
